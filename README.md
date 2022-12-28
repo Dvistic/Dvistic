@@ -1,6 +1,9 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="250"/>
 </div>
+<div id="badges" align="center">
+<img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge">
+</div>
 
 <!---
 Dvistic/Dvistic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
