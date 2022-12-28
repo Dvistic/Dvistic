@@ -15,6 +15,12 @@
 <h1 align="center">Hello
  <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="55px">
 </h1>
+<h3>
+ I’m Deividas a.k.a "Dvistic".<br>
+ I’m interested in web development.<br>
+ I’m currently learning JavaScript programming language.
+ 
+ </h3>
 <!---
 Dvistic/Dvistic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
