@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
- <a href="http://discordapp.com/users/dvistic#9561"
+ <a href="http://discordapp.com/users/dvistic#9561">
 <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge">
   </a>
 <img src="https://img.shields.io/badge/Gmail-lightblue?logo=gmail&logoColor=none&style=for-the-badge">
