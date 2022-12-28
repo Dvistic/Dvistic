@@ -13,7 +13,7 @@
  </a>
 </div>
 <h1>Hello 
- <img src="https://giphy.com/gifs/hello-psychedelic-hand-UrQS3c4UKGEZnkJM7l" alt="Wave">
+ <img src="https://giphy.com/gifs/hello-psychedelic-hand-UrQS3c4UKGEZnkJM7l">
 </h1>
 <!---
 Dvistic/Dvistic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
