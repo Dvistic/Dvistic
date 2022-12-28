@@ -5,10 +5,12 @@
  <a href="http://discordapp.com/users/dvistic#9561" alt="Link to Discord">
 <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=GTvVlcSKjRJfgcZgphFkJjcjfrsTfPGJNFXrqmxlTNNSRkCSwPSHBzPtdsvrgKJjKrPXfJkqtCCQg">
+  <a href="https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=GTvVlcSKjRJfgcZgphFkJjcjfrsTfPGJNFXrqmxlTNNSRkCSwPSHBzPtdsvrgKJjKrPXfJkqtCCQg" alt="Link to E-mail">
 <img src="https://img.shields.io/badge/Gmail-lightblue?logo=gmail&logoColor=none&style=for-the-badge">
 </a>
+ <a href="https://www.linkedin.com/in/deividas-ansius-5833a4214" alt="Link to LinkedIn">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+ </a>
 </div>
 
 <!---
