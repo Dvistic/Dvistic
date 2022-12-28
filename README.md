@@ -2,7 +2,9 @@
 <img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
-<img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/Gmail-lightblue?logo=gmail&logoColor=none&style=for-the-badge">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </div>
 
 <!---
