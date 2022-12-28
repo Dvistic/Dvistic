@@ -12,7 +12,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
  </a>
 </div>
-
+<h1>Hello 
+ <img src="https://giphy.com/gifs/hello-psychedelic-hand-UrQS3c4UKGEZnkJM7l" alt="Wave">
+</h1>
 <!---
 Dvistic/Dvistic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
