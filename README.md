@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
  </a>
 </div>
-<h2 align="center">Hello
- <img src="https://media.giphy.com/media/ps8PHjL5SB9PoPkfVh/giphy.gif" width="80px">
-</h2>
+<h1 align="center">Hello
+ <img src="https://media.giphy.com/media/ps8PHjL5SB9PoPkfVh/giphy.gif" width="60px">
+</h1>
 
 <h3>
  I’m Deividas (Dvistic).<br>
