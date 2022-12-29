@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
  <a href="http://discordapp.com/users/dvistic#9561" alt="Link to Discord">
@@ -24,6 +24,7 @@
 <!---
 Dvistic/Dvistic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="250"/>
 - 👋 Hi, I’m @Dvistic
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning JavaScript programming language.
