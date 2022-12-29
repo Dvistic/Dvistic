@@ -13,9 +13,10 @@
  </a>
 </div>
 <h1 align="center">Hello
- <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="55px">
+ <img src="https://media.giphy.com/media/ps8PHjL5SB9PoPkfVh/giphy.gif" width="55px">
 </h1>
-<h3 style="color:green">
+
+<h3>
  I’m Deividas (Dvistic).<br>
  I’m interested in web development.<br>
  I’m currently learning JavaScript programming language.
