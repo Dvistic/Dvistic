@@ -16,7 +16,7 @@
  <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="55px">
 </h1>
 <h3>
- I’m Deividas a.k.a "Dvistic".<br>
+ I’m Deividas (Dvistic).<br>
  I’m interested in web development.<br>
  I’m currently learning JavaScript programming language.
  
