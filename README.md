@@ -19,7 +19,7 @@
 <h3>
  I’m Deividas (Dvistic).<br>
  I’m interested in web development.<br>
- I’m currently learning JavaScript programming language.
+ I’m currently learning JavaScript.
  
  </h3>
 <!---
